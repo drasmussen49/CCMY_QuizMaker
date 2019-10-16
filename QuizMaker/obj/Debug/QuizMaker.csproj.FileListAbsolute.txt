@@ -1,0 +1,7 @@
+C:\Users\Dan\source\repos\Codecademy\QuizMaker\QuizMaker\QuizMaker\bin\Debug\QuizMaker.exe.config
+C:\Users\Dan\source\repos\Codecademy\QuizMaker\QuizMaker\QuizMaker\bin\Debug\QuizMaker.exe
+C:\Users\Dan\source\repos\Codecademy\QuizMaker\QuizMaker\QuizMaker\bin\Debug\QuizMaker.pdb
+C:\Users\Dan\source\repos\Codecademy\QuizMaker\QuizMaker\QuizMaker\obj\Debug\QuizMaker.csprojAssemblyReference.cache
+C:\Users\Dan\source\repos\Codecademy\QuizMaker\QuizMaker\QuizMaker\obj\Debug\QuizMaker.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\Codecademy\QuizMaker\QuizMaker\QuizMaker\obj\Debug\QuizMaker.exe
+C:\Users\Dan\source\repos\Codecademy\QuizMaker\QuizMaker\QuizMaker\obj\Debug\QuizMaker.pdb

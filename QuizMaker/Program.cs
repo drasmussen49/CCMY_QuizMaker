@@ -11,7 +11,10 @@ namespace QuizMaker
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to 'True or False?'!");
-           
+            QsAndAs firstSet = RunQuiz();
+            firstSet.CheckAnswers();
+            Console.ReadLine();
+            
         }
         public static QsAndAs RunQuiz()
         {
@@ -74,12 +77,8 @@ namespace QuizMaker
 
         public void CheckAnswers()
         {
-
             int scoringIndex = 0;
-
-
             int score = 0;
-
             foreach (bool answer in Answers)
             {
                 bool userAnswer = UserResponses[scoringIndex];
